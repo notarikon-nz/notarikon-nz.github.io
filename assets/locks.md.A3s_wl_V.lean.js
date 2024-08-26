@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a1 as t}from"./chunks/framework.BwTyoF0R.js";const m=JSON.parse('{"title":"Locks","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"locks.md","filePath":"locks.md"}'),n={name:"locks.md"},s=t("",56),c=[s];function i(r,l,d,p,h,u){return o(),a("div",null,c)}const g=e(n,[["render",i]]);export{m as __pageData,g as default};
